@@ -1,4 +1,5 @@
-# Jenkins Rackspace Canon(tm) Theme
+# Jenkins Bob UI Theme
+[原作地址](https://github.com/rackerlabs/canon-jenkins)
 
 CSS and JS to implement as a theme for [Jenkins CI](http://jenkins-ci.org/).
 
